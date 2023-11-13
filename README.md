@@ -1,3 +1,3 @@
 # Fraud
-Look at features, model fitting and clustering
+Feature engineering, classification and clustering
 Using Kaggle dataset
